@@ -37,7 +37,12 @@ I'm a cloud-devops engineer and content creator building my version of the digit
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Create a Cron Job | Linux Level 2 | KodeKloud](https://ytcards.demolab.com/?id=j0MWrBgW7RM&title=Create+a+Cron+Job+%7C+Linux+Level+2+%7C+KodeKloud&lang=en&timestamp=1711164616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Create a Cron Job | Linux Level 2 | KodeKloud")](https://www.youtube.com/watch?v=j0MWrBgW7RM)
+[![Selinux Installation | Linux Level 1 | KodeKloud](https://ytcards.demolab.com/?id=Dwu6Nv9MVq4&title=Selinux+Installation+%7C+Linux+Level+1+%7C+KodeKloud&lang=en&timestamp=1710868465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Selinux Installation | Linux Level 1 | KodeKloud")](https://www.youtube.com/watch?v=Dwu6Nv9MVq4)
+[![Linux Resource Limits | Linux Level 1 | KodeKloud](https://ytcards.demolab.com/?id=Dq877eI8KTg&title=Linux+Resource+Limits+%7C+Linux+Level+1+%7C+KodeKloud&lang=en&timestamp=1710688529&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linux Resource Limits | Linux Level 1 | KodeKloud")](https://www.youtube.com/watch?v=Dq877eI8KTg)
+[![Linux Firewalld Rules | Linux Level 1 | KodeKloud](https://ytcards.demolab.com/?id=2hcFgZC5Z3Y&title=Linux+Firewalld+Rules+%7C+Linux+Level+1+%7C+KodeKloud&lang=en&timestamp=1710559802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linux Firewalld Rules | Linux Level 1 | KodeKloud")](https://www.youtube.com/watch?v=2hcFgZC5Z3Y)
+[![Linux NTP Setup | Linux Level 1 | KodeKloud](https://ytcards.demolab.com/?id=38W9mnRTiXU&title=Linux+NTP+Setup+%7C+Linux+Level+1+%7C+KodeKloud&lang=en&timestamp=1710524368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linux NTP Setup | Linux Level 1 | KodeKloud")](https://www.youtube.com/watch?v=38W9mnRTiXU)
+[![Linux Time Zones Settings | Linux Level 1 | KodeKloud](https://ytcards.demolab.com/?id=bF7oK2AF8L0&title=Linux+Time+Zones+Settings+%7C+Linux+Level+1+%7C+KodeKloud&lang=en&timestamp=1710347778&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linux Time Zones Settings | Linux Level 1 | KodeKloud")](https://www.youtube.com/watch?v=bF7oK2AF8L0)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/ABCloudDev?sub_confirmation=1)
